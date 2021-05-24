@@ -265,7 +265,7 @@
             animation: lighting 2s infinite alternate;
         }
     </style>
-    <image style="overflow: visible; enable-background: new;" width="1400" height="2100" xlink:href="img/woman-mobile.png" transform="matrix(0.436 0 0 0.436 99.7745 176.7461)"></image>
+    <image style="overflow: visible; enable-background: new;" width="1400" height="2100" xlink:href="../img/woman-mobile.png" transform="matrix(0.436 0 0 0.436 99.7745 176.7461)"></image>
     <g>
         <text transform="matrix(1 0 0 1 322.3611 71.6754)" class="st0 st1 st2">PROBLEMAS COMUNES</text>
     </g>
