@@ -84,20 +84,3 @@ section.intro .cover{background-size:cover;background-position:center;background
 #cover ul .st1{left: 1100px;background-image: url(img/section_1_lg.png);}
 #cover ul .st2{left: -1100px;background-image: url(img/section_2_lg.png);}
 
-section.intro .cover {
-    height: 70vw;
-}
-
-section.intro p .autor {
-    color: #fff;
-}
-
-section.intro p {
-    color: #f0f0f0;
-}
-
-section.intro h1 {
-    color: #fff;
-    max-width: 850px;
-    margin-top: -120px;
-}
